@@ -1,11 +1,12 @@
 # ninja log v5
-410	504	7555482831268765	AlgorithmProj.exe	ab6148727e377c16
-1	180	7555493557288123	build.ninja	6d79bb0b69e78c18
-13	296	7553566790555286	CMakeFiles/AlgorithmProj.dir/main.cpp.obj	bbb0c6801dd33765
 1	94	7554481167708226	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/第8课/第三题/807(函数)_区间求和.cpp.obj	6fa0fa7adb0f99b1
-3	235	7554495820173706	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第五题/814(函数)_复制数组.cpp.obj	81921d6e13ee0221
-0	403	7554486046155803	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/第8课/第四题/809(函数)_最小公倍数.cpp.obj	9c94407bdbda29
+13	296	7553566790555286	CMakeFiles/AlgorithmProj.dir/main.cpp.obj	bbb0c6801dd33765
+5	210	7557869148489090	build.ninja	6d79bb0b69e78c18
+396	512	7557798842137507	AlgorithmProj.exe	6706edd9da6bc7a0
+1	394	7557798841004132	CMakeFiles/AlgorithmProj.dir/Acwing/2.算法基础课/第二章数据结构/Trie树/第一题/835_Trie字符串的统计.cpp.obj	8f882f320dda981a
 0	362	7554533745694550	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第八题/817(函数)_数组去重.cpp.obj	7da0ca1f77aa7fa7
+0	403	7554486046155803	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/第8课/第四题/809(函数)_最小公倍数.cpp.obj	9c94407bdbda29
+3	235	7554495820173706	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第五题/814(函数)_复制数组.cpp.obj	81921d6e13ee0221
 0	258	7554490359231162	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第四题/809(函数)_最小公倍数.cpp.obj	1372ffc01b84fa3e
 2	308	7555471689372293	CMakeFiles/AlgorithmProj.dir/Acwing/语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第九题/818(函数)_数组排序.cpp.obj	4c6efc976a3aa3fb
 0	403	7555482830293301	CMakeFiles/AlgorithmProj.dir/Acwing/1.语法基础课/1.6_习题_及_1.7_类、结构体、指针与引用/第十题/821(函数)_跳台阶.cpp.obj	265684d805b4d416
