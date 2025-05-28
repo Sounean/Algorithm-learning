@@ -5,7 +5,9 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(AlgorithmProj
 #        main.cpp
-#        Acwing/1.语法基础课/第8课_STL.cpp
+#        LuoGu/P1042.cpp
+        LuoGu/P2670.cpp
+        #        Acwing/1.语法基础课/第8课_STL.cpp
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第一题/810(函数)_绝对值.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第二题/806(函数)_两个数的和.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第三题/807(函数)_区间求和.cpp"
@@ -15,4 +17,5 @@ add_executable(AlgorithmProj
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第八题/817(函数)_数组去重.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第九题/818(函数)_数组排序.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第十题/821(函数)_跳台阶.cpp"
-        Acwing/2.算法基础课/第二章数据结构/Trie树/第一题/835_Trie字符串的统计.cpp)
+#        Acwing/2.算法基础课/第二章数据结构/Trie树/第一题/835_Trie字符串的统计.cpp
+)
