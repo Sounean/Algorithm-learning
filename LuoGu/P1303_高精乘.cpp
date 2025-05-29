@@ -10,6 +10,13 @@ int a[maxn],b[maxn],c[maxn];    // a存位数更长的那个
 int main(){
     string A,B;
     cin >> A >> B;
+
+    // 处理输入为0的特殊情况
+    if (A == "0" || B == "0") {
+        cout << 0;
+        return 0;
+    }
+
     int len = max(A.length(),B.length());
     int lessLength = -1;
     int moreLength = -1;
@@ -39,9 +46,12 @@ int main(){
 
     for(int j=1;j<=lessLength;j++){
         for(int i=1;i<=moreLength;i++){
-            c[i] += b[j]*a[i];
-            c[i+1] = c[i]/10;
-            c[i] = c[i]%10;
+//            c[i] += b[j]*a[i];    // 这样的话乘积后的位数是有问题的
+//            c[i+1] = c[i]/10;
+//            c[i] = c[i]%10;
+            c[i+j-1] += a[i] * b[j];  // 正确位置：i+j-1
+            c[i+j] += c[i+j-1] / 10;  // 累加进位
+            c[i+j-1] %= 10;
         }
     }
     // 笨一点的就是往后面找短的位，有出现不是0的，则给长度加上去
