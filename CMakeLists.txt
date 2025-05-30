@@ -12,7 +12,8 @@ add_executable(AlgorithmProj
 #        LuoGu/P1009.cpp
 #        LuoGu/P4924.cpp
 #        LuoGu/P1328.cpp
-        LuoGu/P1518.cpp
+#        LuoGu/P1518.cpp
+        LuoGu/P1067.cpp
         #        Acwing/1.语法基础课/第8课_STL.cpp
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第一题/810(函数)_绝对值.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第二题/806(函数)_两个数的和.cpp"
