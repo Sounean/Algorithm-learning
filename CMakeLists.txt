@@ -5,14 +5,22 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(AlgorithmProj
 #        main.cpp
-#        LuoGu/P1042.cpp
-#        LuoGu/P2670.cpp
-#        LuoGu/P1601_高精加.cpp
-#        LuoGu/P1303.cpp
+#        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
+#        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
+#        LuoGu/Part6/6_1_CharArray/P6565.cpp
+        #        LuoGu/P2670.cpp
+#        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P1601.cpp
+#        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P2142.cpp
+#        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P2142_pls.cpp
+        "LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp"
+        #        LuoGu/P1303.cpp
 #        LuoGu/P1009.cpp
 #        LuoGu/P4924.cpp
 #        LuoGu/P1328.cpp
-        LuoGu/P1518.cpp
+#        LuoGu/P1518.cpp
+#        LuoGu/P1067.cpp
+#        LuoGu/P1067_plus.cpp
+#        LuoGu/P1098.cpp
         #        Acwing/1.语法基础课/第8课_STL.cpp
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第一题/810(函数)_绝对值.cpp"
 #        "Acwing/1.语法基础课/1.6 习题 及 1.7 类、结构体、指针与引用/第二题/806(函数)_两个数的和.cpp"

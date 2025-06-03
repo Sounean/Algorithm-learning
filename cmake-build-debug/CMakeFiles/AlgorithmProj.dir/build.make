@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe
+CMAKE_COMMAND = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe
 
 # The command to remove a file.
-RM = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
+RM = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -68,28 +68,28 @@ include CMakeFiles/AlgorithmProj.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AlgorithmProj.dir/flags.make
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
-CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj: D:/CProj/Algorithm-learning/LuoGu/P1518.cpp
-CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj"
-	E:\toolbox\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LuoGu\P1518.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LuoGu\P1518.cpp.obj -c D:\CProj\Algorithm-learning\LuoGu\P1518.cpp
+CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
+CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj: D:/CProj/Algorithm-learning/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp
+CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp.obj -c D:\CProj\Algorithm-learning\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.i"
-	E:\toolbox\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LuoGu\P1518.cpp > CMakeFiles\AlgorithmProj.dir\LuoGu\P1518.cpp.i
+CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp > CMakeFiles\AlgorithmProj.dir\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp.i
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.s"
-	E:\toolbox\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LuoGu\P1518.cpp -o CMakeFiles\AlgorithmProj.dir\LuoGu\P1518.cpp.s
+CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp -o CMakeFiles\AlgorithmProj.dir\LuoGu\Part8\8_1_SimulationAlgorithm\P3613.cpp.s
 
 # Object files for target AlgorithmProj
 AlgorithmProj_OBJECTS = \
-"CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj"
+"CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj"
 
 # External object files for target AlgorithmProj
 AlgorithmProj_EXTERNAL_OBJECTS =
 
-AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LuoGu/P1518.cpp.obj
+AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/build.make
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/linkLibs.rsp
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/objects1.rsp
