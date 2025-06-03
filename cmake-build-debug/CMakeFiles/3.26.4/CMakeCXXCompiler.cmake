@@ -1,7 +1,7 @@
-set(CMAKE_CXX_COMPILER "E:/qt6/Tools/mingw1120_64/bin/c++.exe")
+set(CMAKE_CXX_COMPILER "E:/toolbox/CLion/bin/mingw/bin/g++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
-set(CMAKE_CXX_COMPILER_VERSION "11.2.0")
+set(CMAKE_CXX_COMPILER_VERSION "13.1.0")
 set(CMAKE_CXX_COMPILER_VERSION_INTERNAL "")
 set(CMAKE_CXX_COMPILER_WRAPPER "")
 set(CMAKE_CXX_STANDARD_COMPUTED_DEFAULT "17")
@@ -22,11 +22,11 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "E:/qt6/Tools/mingw1120_64/bin/ar.exe")
-set(CMAKE_CXX_COMPILER_AR "E:/qt6/Tools/mingw1120_64/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "E:/qt6/Tools/mingw1120_64/bin/ranlib.exe")
-set(CMAKE_CXX_COMPILER_RANLIB "E:/qt6/Tools/mingw1120_64/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "E:/qt6/Tools/mingw1120_64/bin/ld.exe")
+set(CMAKE_AR "E:/toolbox/CLion/bin/mingw/bin/ar.exe")
+set(CMAKE_CXX_COMPILER_AR "E:/toolbox/CLion/bin/mingw/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "E:/toolbox/CLion/bin/mingw/bin/ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "E:/toolbox/CLion/bin/mingw/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "E:/toolbox/CLion/bin/mingw/bin/ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
 set(CMAKE_CXX_COMPILER_LOADED 1)
@@ -77,7 +77,7 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++;E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32;E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward;E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include;E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed;E:/qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include")
+set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++;E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32;E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward;E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;E:/toolbox/CLion/bin/mingw/include;E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;E:/toolbox/CLion/bin/mingw/x86_64-w64-mingw32/include")
 set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;mingw32;gcc_s;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc_s;gcc;moldname;mingwex;kernel32")
-set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "E:/qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0;E:/qt6/Tools/mingw1120_64/lib/gcc;E:/qt6/Tools/mingw1120_64/x86_64-w64-mingw32/lib;E:/qt6/Tools/mingw1120_64/lib")
+set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "E:/toolbox/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0;E:/toolbox/CLion/bin/mingw/lib/gcc;E:/toolbox/CLion/bin/mingw/x86_64-w64-mingw32/lib;E:/toolbox/CLion/bin/mingw/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
