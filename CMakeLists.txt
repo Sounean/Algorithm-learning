@@ -4,7 +4,18 @@ project(AlgorithmProj)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(AlgorithmProj
-#        main.cpp
+#        LuoGu/Part10/Array-Enum/P2241.cpp
+#        LuoGu/Part10/Array-Enum/P2089.cpp
+#        LuoGu/Part10/Array-Enum/P1618.cpp
+#        LuoGu/Part10/Subset-Enum/P1036.cpp
+#        LuoGu/Part10/Subset-Enum/P1157.cpp
+#        LuoGu/Part10/Circle-Enum/P1618.cpp
+#        LuoGu/Part11_Recursion/P1255.cpp
+#        LuoGu/Part11_Recursion/P1002.cpp
+#        LuoGu/Important_Method/next_permutation_method.cpp
+#        LuoGu/Part10/Array-Enum/P1706.cpp
+        LuoGu/Part10/Array-Enum/Poj1256.cpp
+        #        main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
 #        LuoGu/Part6/6_1_CharArray/P6565.cpp
@@ -12,7 +23,14 @@ add_executable(AlgorithmProj
 #        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P1601.cpp
 #        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P2142.cpp
 #        LuoGu/Part8/8_2_HighPrecisionAlgorithm/P2142_pls.cpp
-        "LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp"
+#        "LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp"
+#        LuoGu/P1093.cpp
+#        LuoGu/P2676.cpp
+#        LuoGu/P1152.cpp
+#        LuoGu/P1068.cpp
+#        LuoGu/P5143.cpp
+#        LuoGu/P1104.cpp
+#        LuoGu/Part9/P1012.cpp
         #        LuoGu/P1303.cpp
 #        LuoGu/P1009.cpp
 #        LuoGu/P4924.cpp
