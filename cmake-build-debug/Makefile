@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.obj: LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.obj
+0725/P1424.obj: 0725/P1424.cpp.obj
+.PHONY : 0725/P1424.obj
 
 # target to build an object file
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.obj
+0725/P1424.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P1424.cpp.obj
+.PHONY : 0725/P1424.cpp.obj
 
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.i: LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.i
+0725/P1424.i: 0725/P1424.cpp.i
+.PHONY : 0725/P1424.i
 
 # target to preprocess a source file
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.i
+0725/P1424.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P1424.cpp.i
+.PHONY : 0725/P1424.cpp.i
 
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.s: LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.s
+0725/P1424.s: 0725/P1424.cpp.s
+.PHONY : 0725/P1424.s
 
 # target to generate assembly for a file
-LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s
-.PHONY : LuoGu/Part8/8_1_SimulationAlgorithm/P3613.cpp.s
+0725/P1424.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P1424.cpp.s
+.PHONY : 0725/P1424.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Part8/8_1_SimulationAlgorithm/P3613.obj
-	@echo ... LuoGu/Part8/8_1_SimulationAlgorithm/P3613.i
-	@echo ... LuoGu/Part8/8_1_SimulationAlgorithm/P3613.s
+	@echo ... 0725/P1424.obj
+	@echo ... 0725/P1424.i
+	@echo ... 0725/P1424.s
 .PHONY : help
 
 
