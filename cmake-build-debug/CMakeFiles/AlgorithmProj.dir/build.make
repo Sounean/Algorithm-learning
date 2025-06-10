@@ -68,28 +68,28 @@ include CMakeFiles/AlgorithmProj.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AlgorithmProj.dir/flags.make
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
-CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj: D:/CProj/Algorithm-learning/LuoGu/Part10/Array-Enum/Poj1256.cpp
-CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj"
-	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LuoGu\Part10\Array-Enum\Poj1256.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LuoGu\Part10\Array-Enum\Poj1256.cpp.obj -c D:\CProj\Algorithm-learning\LuoGu\Part10\Array-Enum\Poj1256.cpp
+CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
+CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj: D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp
+CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp.obj -c D:\CProj\Algorithm-learning\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.i"
-	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LuoGu\Part10\Array-Enum\Poj1256.cpp > CMakeFiles\AlgorithmProj.dir\LuoGu\Part10\Array-Enum\Poj1256.cpp.i
+CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp > CMakeFiles\AlgorithmProj.dir\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp.i
 
-CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.s"
-	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LuoGu\Part10\Array-Enum\Poj1256.cpp -o CMakeFiles\AlgorithmProj.dir\LuoGu\Part10\Array-Enum\Poj1256.cpp.s
+CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp -o CMakeFiles\AlgorithmProj.dir\LuoGu\competition\XinXiSuYanDaSai\QiTaZhenTi\xasgtryrtfuyh.cpp.s
 
 # Object files for target AlgorithmProj
 AlgorithmProj_OBJECTS = \
-"CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj"
+"CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj"
 
 # External object files for target AlgorithmProj
 AlgorithmProj_EXTERNAL_OBJECTS =
 
-AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj
+AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/build.make
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/linkLibs.rsp
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/objects1.rsp

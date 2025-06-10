@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CProj/Algorithm-learning/build",
+  "command": "E:\\qt6\\Tools\\mingw1120_64\\bin\\g++.exe   -g -o CMakeFiles\\AlgorithmProj.dir\\LuoGu\\competition\\XinXiSuYanDaSai\\QiTaZhenTi\\ZhengShuHuanChengDaiFenShu.cpp.obj -c D:\\CProj\\Algorithm-learning\\LuoGu\\competition\\XinXiSuYanDaSai\\QiTaZhenTi\\ZhengShuHuanChengDaiFenShu.cpp",
+  "file": "D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp",
+  "output": "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj"
+}
+]

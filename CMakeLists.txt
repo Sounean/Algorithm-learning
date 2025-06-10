@@ -14,8 +14,28 @@ add_executable(AlgorithmProj
 #        LuoGu/Part11_Recursion/P1002.cpp
 #        LuoGu/Important_Method/next_permutation_method.cpp
 #        LuoGu/Part10/Array-Enum/P1706.cpp
-        LuoGu/Part10/Array-Enum/Poj1256.cpp
-        #        main.cpp
+#        LuoGu/Part10/Array-Enum/Poj1256.cpp
+#        LuoGu/Part11_Recursion/P1044.cpp
+#        LuoGu/competition/test.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/JianShiTou.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/PanDuanShuZiChuXianJiCi.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/HuaXueBanDaBao.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/TonJiKaoShiChenJi.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/ShanChuKWeiShuZi.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhanShenBaiYi.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/JiSuanGeZiDiBan.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/HouZiZhaiTao.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/BookArrangement.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/TimeConverter.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ChemicalReaction.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/LeapYear.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/SensorData.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/KeyboardInput.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/erwtgrg.cpp
+        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp
+        #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
 #        LuoGu/Part6/6_1_CharArray/P6565.cpp

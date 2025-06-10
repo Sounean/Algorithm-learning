@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "AlgorithmProj.exe"
   "AlgorithmProj.exe.manifest"
   "AlgorithmProj.pdb"
-  "CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj"
-  "CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj.d"
   "libAlgorithmProj.dll.a"
 )
 

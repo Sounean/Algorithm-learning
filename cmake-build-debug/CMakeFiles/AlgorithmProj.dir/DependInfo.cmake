@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CProj/Algorithm-learning/LuoGu/Part10/Array-Enum/Poj1256.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
