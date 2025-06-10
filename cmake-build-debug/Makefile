@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Part10/Array-Enum/Poj1256.obj: LuoGu/Part10/Array-Enum/Poj1256.cpp.obj
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.obj
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj
 
 # target to build an object file
-LuoGu/Part10/Array-Enum/Poj1256.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.obj
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.cpp.obj
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
 
-LuoGu/Part10/Array-Enum/Poj1256.i: LuoGu/Part10/Array-Enum/Poj1256.cpp.i
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.i
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i
 
 # target to preprocess a source file
-LuoGu/Part10/Array-Enum/Poj1256.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.i
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.cpp.i
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
 
-LuoGu/Part10/Array-Enum/Poj1256.s: LuoGu/Part10/Array-Enum/Poj1256.cpp.s
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.s
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s
 
 # target to generate assembly for a file
-LuoGu/Part10/Array-Enum/Poj1256.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part10/Array-Enum/Poj1256.cpp.s
-.PHONY : LuoGu/Part10/Array-Enum/Poj1256.cpp.s
+LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Part10/Array-Enum/Poj1256.obj
-	@echo ... LuoGu/Part10/Array-Enum/Poj1256.i
-	@echo ... LuoGu/Part10/Array-Enum/Poj1256.s
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s
 .PHONY : help
 
 

@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/CProj/Algorithm-learning/LuoGu/Part10/Array-Enum/Poj1256.cpp">
+		<Unit filename="D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp">
 			<Option target="AlgorithmProj"/>
 		</Unit>
 		<Unit filename="D:/CProj/Algorithm-learning/CMakeLists.txt">
