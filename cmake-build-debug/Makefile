@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.obj: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.obj
+LuoGu/Part11_Recursion/P1002_250718test2.obj: LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.obj
 
 # target to build an object file
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.obj
+LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
 
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.i: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.i
+LuoGu/Part11_Recursion/P1002_250718test2.i: LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.i
 
 # target to preprocess a source file
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.i
+LuoGu/Part11_Recursion/P1002_250718test2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
 
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.s: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.s
+LuoGu/Part11_Recursion/P1002_250718test2.s: LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.s
 
 # target to generate assembly for a file
-LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp.s
+LuoGu/Part11_Recursion/P1002_250718test2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
+.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.obj
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.i
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.s
+	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.obj
+	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.i
+	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.s
 .PHONY : help
 
 

@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "AlgorithmProj::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-AlgorithmProj-Debug-f61c6ab54fed2662fd8d.json",
+					"jsonFile" : "target-AlgorithmProj-Debug-af300a52c48d3a253c2a.json",
 					"name" : "AlgorithmProj",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CProj/Algorithm-learning/cmake-build-debug",
+		"build" : "D:/CProj/Algorithm-learning/build",
 		"source" : "D:/CProj/Algorithm-learning"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 7
 	}
 }

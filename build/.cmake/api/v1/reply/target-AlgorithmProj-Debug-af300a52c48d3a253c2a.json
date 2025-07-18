@@ -38,7 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-g"
 				}
 			],
 			"language" : "CXX",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp",
+			"path" : "LuoGu/Part11_Recursion/P1002_250718test2.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

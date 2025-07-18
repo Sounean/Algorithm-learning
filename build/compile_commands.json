@@ -1,8 +1,8 @@
 [
 {
   "directory": "D:/CProj/Algorithm-learning/build",
-  "command": "E:\\qt6\\Tools\\mingw1120_64\\bin\\g++.exe   -g -o CMakeFiles\\AlgorithmProj.dir\\LuoGu\\competition\\XinXiSuYanDaSai\\QiTaZhenTi\\ZhengShuHuanChengDaiFenShu.cpp.obj -c D:\\CProj\\Algorithm-learning\\LuoGu\\competition\\XinXiSuYanDaSai\\QiTaZhenTi\\ZhengShuHuanChengDaiFenShu.cpp",
-  "file": "D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp",
-  "output": "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj"
+  "command": "E:\\qt6\\Tools\\mingw1120_64\\bin\\g++.exe   -g -o CMakeFiles\\AlgorithmProj.dir\\LuoGu\\Part11_Recursion\\P1002_250718test2.cpp.obj -c D:\\CProj\\Algorithm-learning\\LuoGu\\Part11_Recursion\\P1002_250718test2.cpp",
+  "file": "D:/CProj/Algorithm-learning/LuoGu/Part11_Recursion/P1002_250718test2.cpp",
+  "output": "CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj"
 }
 ]

@@ -34,7 +34,8 @@ add_executable(AlgorithmProj
 #        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/SensorData.cpp
 #        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/KeyboardInput.cpp
 #        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/erwtgrg.cpp
-        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp
+        LuoGu/Part11_Recursion/P1002_250718test2.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
