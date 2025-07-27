@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "AlgorithmProj.exe"
   "AlgorithmProj.exe.manifest"
   "AlgorithmProj.pdb"
-  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj"
-  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj.d"
   "libAlgorithmProj.dll.a"
 )
 

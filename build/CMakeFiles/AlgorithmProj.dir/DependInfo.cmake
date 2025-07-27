@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -18,7 +18,7 @@ int preWeek(int x,int n){
 }
 
 int lastWeek(int x,int n){
-    int lastDays = (x+n)%7;
+    int lastDays = (x+n-1)%7;
     if(lastDays<6){
         return lastDays;
     } else{
@@ -36,7 +36,8 @@ int main(){
         int preCount = preWeek(x,8-x)*250;
         int middleCount = ((x+n)/7 - 1) * 5 *250;
         int lastCount = lastWeek(x,n) * 250;
-        cout << preCount+middleCount+lastCount;
+        cout << preWeek(x,8-x) << " " <<  ((x+n)/7 - 1) * 5 << " " << lastWeek(x,n);
+//        cout << preCount+middleCount+lastCount;
     }
 
     return 0;

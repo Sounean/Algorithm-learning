@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.obj: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.obj
 
 # target to build an object file
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.obj
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.obj
 
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.i: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.i
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.i
 
 # target to preprocess a source file
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.i
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.i
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.i
 
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s: LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.s: LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.s
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.s
 
 # target to generate assembly for a file
-LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
-.PHONY : LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp.s
+LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.s
+.PHONY : LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.obj
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.i
-	@echo ... LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.s
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.obj
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.i
+	@echo ... LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.s
 .PHONY : help
 
 

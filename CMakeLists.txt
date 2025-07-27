@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.8)
+cmake_minimum_required(VERSION 3.26)
 project(AlgorithmProj)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -23,9 +23,19 @@ add_executable(AlgorithmProj
 #        LuoGu/competition/XinXiSuYanDaSai/JuanYi/TonJiKaoShiChenJi.cpp
 #        LuoGu/competition/XinXiSuYanDaSai/JuanYi/ShanChuKWeiShuZi.cpp
 #        LuoGu/competition/XinXiSuYanDaSai/JuanYi/PeiBeiShu.cpp
-#        YZX/P1093.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhanShenBaiYi.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/JiSuanGeZiDiBan.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/HouZiZhaiTao.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ZhengShuHuanChengDaiFenShu.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/BookArrangement.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/TimeConverter.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/ChemicalReaction.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/LeapYear.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/SensorData.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/KeyboardInput.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/erwtgrg.cpp
+#        LuoGu/competition/XinXiSuYanDaSai/QiTaZhenTi/xasgtryrtfuyh.cpp
         0725/P1424.cpp
-#        0725/P1422.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
