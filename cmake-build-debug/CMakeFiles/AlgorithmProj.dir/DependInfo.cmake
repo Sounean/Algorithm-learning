@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CProj/Algorithm-learning/LuoGu/Part11_Recursion/P1002_250718test2.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/LuoGu/Part5/P2615.cpp" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

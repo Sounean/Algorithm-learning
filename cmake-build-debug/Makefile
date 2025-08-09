@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Part11_Recursion/P1002_250718test2.obj: LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.obj
+LuoGu/Part5/P2615.obj: LuoGu/Part5/P2615.cpp.obj
+.PHONY : LuoGu/Part5/P2615.obj
 
 # target to build an object file
-LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.obj
+LuoGu/Part5/P2615.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.obj
+.PHONY : LuoGu/Part5/P2615.cpp.obj
 
-LuoGu/Part11_Recursion/P1002_250718test2.i: LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.i
+LuoGu/Part5/P2615.i: LuoGu/Part5/P2615.cpp.i
+.PHONY : LuoGu/Part5/P2615.i
 
 # target to preprocess a source file
-LuoGu/Part11_Recursion/P1002_250718test2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.i
+LuoGu/Part5/P2615.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.i
+.PHONY : LuoGu/Part5/P2615.cpp.i
 
-LuoGu/Part11_Recursion/P1002_250718test2.s: LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.s
+LuoGu/Part5/P2615.s: LuoGu/Part5/P2615.cpp.s
+.PHONY : LuoGu/Part5/P2615.s
 
 # target to generate assembly for a file
-LuoGu/Part11_Recursion/P1002_250718test2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
-.PHONY : LuoGu/Part11_Recursion/P1002_250718test2.cpp.s
+LuoGu/Part5/P2615.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.s
+.PHONY : LuoGu/Part5/P2615.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.obj
-	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.i
-	@echo ... LuoGu/Part11_Recursion/P1002_250718test2.s
+	@echo ... LuoGu/Part5/P2615.obj
+	@echo ... LuoGu/Part5/P2615.i
+	@echo ... LuoGu/Part5/P2615.s
 .PHONY : help
 
 
