@@ -22,8 +22,6 @@ bool visited[30][30] = {false};
 
 int B[3],FO[3]; // B右下角、FO是马的坐标
 
-int forstSize;  // 有效的马的坐标数量
-
 int getF(int x,int y){
 
     if(visited[x][y])return mem[x][y];
@@ -55,7 +53,6 @@ void getHorsePoint(int fOldx,int fOldy){
         if (fOldx+horseOffset[i][0]<0 && fOldx+horseOffset[i][0]>B[0] && fOldy+horseOffset[i][1]<0
         && fOldy+horseOffset[i][1]>B[1])continue;    // 如果超过棋盘就不算在内
         horsrPoint[fOldx+horseOffset[i][0]][fOldy+horseOffset[i][1]] = 1;
-        forstSize++;
     }
 }
 

@@ -128,53 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-0725/P5719.obj: 0725/P5719.cpp.obj
-.PHONY : 0725/P5719.obj
+D0917.obj: D0917.cpp.obj
+.PHONY : D0917.obj
 
 # target to build an object file
-0725/P5719.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5719.cpp.obj
-.PHONY : 0725/P5719.cpp.obj
+D0917.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.obj
+.PHONY : D0917.cpp.obj
 
-0725/P5719.i: 0725/P5719.cpp.i
-.PHONY : 0725/P5719.i
-
-# target to preprocess a source file
-0725/P5719.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5719.cpp.i
-.PHONY : 0725/P5719.cpp.i
-
-0725/P5719.s: 0725/P5719.cpp.s
-.PHONY : 0725/P5719.s
-
-# target to generate assembly for a file
-0725/P5719.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5719.cpp.s
-.PHONY : 0725/P5719.cpp.s
-
-0725/P5721.obj: 0725/P5721.cpp.obj
-.PHONY : 0725/P5721.obj
-
-# target to build an object file
-0725/P5721.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5721.cpp.obj
-.PHONY : 0725/P5721.cpp.obj
-
-0725/P5721.i: 0725/P5721.cpp.i
-.PHONY : 0725/P5721.i
+D0917.i: D0917.cpp.i
+.PHONY : D0917.i
 
 # target to preprocess a source file
-0725/P5721.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5721.cpp.i
-.PHONY : 0725/P5721.cpp.i
+D0917.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.i
+.PHONY : D0917.cpp.i
 
-0725/P5721.s: 0725/P5721.cpp.s
-.PHONY : 0725/P5721.s
+D0917.s: D0917.cpp.s
+.PHONY : D0917.s
 
 # target to generate assembly for a file
-0725/P5721.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/0725/P5721.cpp.s
-.PHONY : 0725/P5721.cpp.s
+D0917.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.s
+.PHONY : D0917.cpp.s
 
 # Help Target
 help:
@@ -185,12 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... 0725/P5719.obj
-	@echo ... 0725/P5719.i
-	@echo ... 0725/P5719.s
-	@echo ... 0725/P5721.obj
-	@echo ... 0725/P5721.i
-	@echo ... 0725/P5721.s
+	@echo ... D0917.obj
+	@echo ... D0917.i
+	@echo ... D0917.s
 .PHONY : help
 
 
