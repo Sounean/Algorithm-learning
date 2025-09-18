@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Part5/P2615.obj: LuoGu/Part5/P2615.cpp.obj
-.PHONY : LuoGu/Part5/P2615.obj
+LuoGu/Gesp/B2120.obj: LuoGu/Gesp/B2120.cpp.obj
+.PHONY : LuoGu/Gesp/B2120.obj
 
 # target to build an object file
-LuoGu/Part5/P2615.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.obj
-.PHONY : LuoGu/Part5/P2615.cpp.obj
+LuoGu/Gesp/B2120.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.obj
+.PHONY : LuoGu/Gesp/B2120.cpp.obj
 
-LuoGu/Part5/P2615.i: LuoGu/Part5/P2615.cpp.i
-.PHONY : LuoGu/Part5/P2615.i
+LuoGu/Gesp/B2120.i: LuoGu/Gesp/B2120.cpp.i
+.PHONY : LuoGu/Gesp/B2120.i
 
 # target to preprocess a source file
-LuoGu/Part5/P2615.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.i
-.PHONY : LuoGu/Part5/P2615.cpp.i
+LuoGu/Gesp/B2120.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.i
+.PHONY : LuoGu/Gesp/B2120.cpp.i
 
-LuoGu/Part5/P2615.s: LuoGu/Part5/P2615.cpp.s
-.PHONY : LuoGu/Part5/P2615.s
+LuoGu/Gesp/B2120.s: LuoGu/Gesp/B2120.cpp.s
+.PHONY : LuoGu/Gesp/B2120.s
 
 # target to generate assembly for a file
-LuoGu/Part5/P2615.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Part5/P2615.cpp.s
-.PHONY : LuoGu/Part5/P2615.cpp.s
+LuoGu/Gesp/B2120.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.s
+.PHONY : LuoGu/Gesp/B2120.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Part5/P2615.obj
-	@echo ... LuoGu/Part5/P2615.i
-	@echo ... LuoGu/Part5/P2615.s
+	@echo ... LuoGu/Gesp/B2120.obj
+	@echo ... LuoGu/Gesp/B2120.i
+	@echo ... LuoGu/Gesp/B2120.s
 .PHONY : help
 
 
