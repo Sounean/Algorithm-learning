@@ -45,7 +45,15 @@ add_executable(AlgorithmProj
 #        D0903.cpp
 #        D0910.cpp
 #        D0914.cpp
-        D0917.cpp
+#        D0917.cpp
+#        LuoGu/Gesp/B2110.cpp
+#        LuoGu/Gesp/B3769.cpp
+#        LuoGu/Gesp/P5728.cpp
+#        LuoGu/Gesp/B3868.cpp
+#        LuoGu/Gesp/B3926.cpp
+#        LuoGu/Gesp/B3867.cpp
+#        LuoGu/Gesp/B3842.cpp
+        LuoGu/Gesp/B3843.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"

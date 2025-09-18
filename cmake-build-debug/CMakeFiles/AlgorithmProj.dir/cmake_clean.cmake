@@ -2,8 +2,10 @@ file(REMOVE_RECURSE
   "AlgorithmProj.exe"
   "AlgorithmProj.exe.manifest"
   "AlgorithmProj.pdb"
-  "CMakeFiles/AlgorithmProj.dir/D0917.cpp.obj"
-  "CMakeFiles/AlgorithmProj.dir/D0917.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.obj.d"
   "libAlgorithmProj.dll.a"
 )
 

@@ -128,29 +128,53 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-D0917.obj: D0917.cpp.obj
-.PHONY : D0917.obj
+LuoGu/Gesp/B3842.obj: LuoGu/Gesp/B3842.cpp.obj
+.PHONY : LuoGu/Gesp/B3842.obj
 
 # target to build an object file
-D0917.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.obj
-.PHONY : D0917.cpp.obj
+LuoGu/Gesp/B3842.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.obj
+.PHONY : LuoGu/Gesp/B3842.cpp.obj
 
-D0917.i: D0917.cpp.i
-.PHONY : D0917.i
+LuoGu/Gesp/B3842.i: LuoGu/Gesp/B3842.cpp.i
+.PHONY : LuoGu/Gesp/B3842.i
 
 # target to preprocess a source file
-D0917.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.i
-.PHONY : D0917.cpp.i
+LuoGu/Gesp/B3842.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.i
+.PHONY : LuoGu/Gesp/B3842.cpp.i
 
-D0917.s: D0917.cpp.s
-.PHONY : D0917.s
+LuoGu/Gesp/B3842.s: LuoGu/Gesp/B3842.cpp.s
+.PHONY : LuoGu/Gesp/B3842.s
 
 # target to generate assembly for a file
-D0917.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/D0917.cpp.s
-.PHONY : D0917.cpp.s
+LuoGu/Gesp/B3842.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.s
+.PHONY : LuoGu/Gesp/B3842.cpp.s
+
+LuoGu/Gesp/B3843.obj: LuoGu/Gesp/B3843.cpp.obj
+.PHONY : LuoGu/Gesp/B3843.obj
+
+# target to build an object file
+LuoGu/Gesp/B3843.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.obj
+.PHONY : LuoGu/Gesp/B3843.cpp.obj
+
+LuoGu/Gesp/B3843.i: LuoGu/Gesp/B3843.cpp.i
+.PHONY : LuoGu/Gesp/B3843.i
+
+# target to preprocess a source file
+LuoGu/Gesp/B3843.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.i
+.PHONY : LuoGu/Gesp/B3843.cpp.i
+
+LuoGu/Gesp/B3843.s: LuoGu/Gesp/B3843.cpp.s
+.PHONY : LuoGu/Gesp/B3843.s
+
+# target to generate assembly for a file
+LuoGu/Gesp/B3843.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.s
+.PHONY : LuoGu/Gesp/B3843.cpp.s
 
 # Help Target
 help:
@@ -161,9 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... D0917.obj
-	@echo ... D0917.i
-	@echo ... D0917.s
+	@echo ... LuoGu/Gesp/B3842.obj
+	@echo ... LuoGu/Gesp/B3842.i
+	@echo ... LuoGu/Gesp/B3842.s
+	@echo ... LuoGu/Gesp/B3843.obj
+	@echo ... LuoGu/Gesp/B3843.i
+	@echo ... LuoGu/Gesp/B3843.s
 .PHONY : help
 
 
