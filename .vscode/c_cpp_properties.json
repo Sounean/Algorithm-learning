@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${default}",
+                "C:/MinGW/include/**",
+                "C:/mingw64/include/**",
+                "C:/mingw64/include/c++/**",
+                "C:/msys64/mingw64/include/**",
+                "C:/msys64/mingw64/include/c++/**",
+                "C:/Program Files/mingw-w64/*/mingw64/include/**",
+                "E:/qt6/Tools/mingw*/include/**",
+                "E:/qt6/Tools/mingw*/include/c++/**",
+                "C:/Program Files (x86)/Microsoft Visual Studio/*/VC/Tools/MSVC/*/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${default}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+} 

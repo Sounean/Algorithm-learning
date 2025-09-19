@@ -47,10 +47,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe
+CMAKE_COMMAND = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe
 
 # The command to remove a file.
-RM = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
+RM = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = D:\CProj\Algorithm-learning\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -128,29 +128,53 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Gesp/B2120.obj: LuoGu/Gesp/B2120.cpp.obj
-.PHONY : LuoGu/Gesp/B2120.obj
+LuoGu/Gesp/B3842.obj: LuoGu/Gesp/B3842.cpp.obj
+.PHONY : LuoGu/Gesp/B3842.obj
 
 # target to build an object file
-LuoGu/Gesp/B2120.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.obj
-.PHONY : LuoGu/Gesp/B2120.cpp.obj
+LuoGu/Gesp/B3842.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.obj
+.PHONY : LuoGu/Gesp/B3842.cpp.obj
 
-LuoGu/Gesp/B2120.i: LuoGu/Gesp/B2120.cpp.i
-.PHONY : LuoGu/Gesp/B2120.i
+LuoGu/Gesp/B3842.i: LuoGu/Gesp/B3842.cpp.i
+.PHONY : LuoGu/Gesp/B3842.i
 
 # target to preprocess a source file
-LuoGu/Gesp/B2120.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.i
-.PHONY : LuoGu/Gesp/B2120.cpp.i
+LuoGu/Gesp/B3842.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.i
+.PHONY : LuoGu/Gesp/B3842.cpp.i
 
-LuoGu/Gesp/B2120.s: LuoGu/Gesp/B2120.cpp.s
-.PHONY : LuoGu/Gesp/B2120.s
+LuoGu/Gesp/B3842.s: LuoGu/Gesp/B3842.cpp.s
+.PHONY : LuoGu/Gesp/B3842.s
 
 # target to generate assembly for a file
-LuoGu/Gesp/B2120.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B2120.cpp.s
-.PHONY : LuoGu/Gesp/B2120.cpp.s
+LuoGu/Gesp/B3842.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.s
+.PHONY : LuoGu/Gesp/B3842.cpp.s
+
+LuoGu/Gesp/B3843.obj: LuoGu/Gesp/B3843.cpp.obj
+.PHONY : LuoGu/Gesp/B3843.obj
+
+# target to build an object file
+LuoGu/Gesp/B3843.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.obj
+.PHONY : LuoGu/Gesp/B3843.cpp.obj
+
+LuoGu/Gesp/B3843.i: LuoGu/Gesp/B3843.cpp.i
+.PHONY : LuoGu/Gesp/B3843.i
+
+# target to preprocess a source file
+LuoGu/Gesp/B3843.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.i
+.PHONY : LuoGu/Gesp/B3843.cpp.i
+
+LuoGu/Gesp/B3843.s: LuoGu/Gesp/B3843.cpp.s
+.PHONY : LuoGu/Gesp/B3843.s
+
+# target to generate assembly for a file
+LuoGu/Gesp/B3843.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.s
+.PHONY : LuoGu/Gesp/B3843.cpp.s
 
 # Help Target
 help:
@@ -161,9 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Gesp/B2120.obj
-	@echo ... LuoGu/Gesp/B2120.i
-	@echo ... LuoGu/Gesp/B2120.s
+	@echo ... LuoGu/Gesp/B3842.obj
+	@echo ... LuoGu/Gesp/B3842.i
+	@echo ... LuoGu/Gesp/B3842.s
+	@echo ... LuoGu/Gesp/B3843.obj
+	@echo ... LuoGu/Gesp/B3843.i
+	@echo ... LuoGu/Gesp/B3843.s
 .PHONY : help
 
 
