@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CProj/Algorithm-learning/build",
+  "command": "E:\\qt6\\Tools\\mingw1120_64\\bin\\g++.exe   -g -o CMakeFiles\\AlgorithmProj.dir\\DonFangBoYiOJ\\DFOJ1368.cpp.obj -c D:\\CProj\\Algorithm-learning\\DonFangBoYiOJ\\DFOJ1368.cpp",
+  "file": "D:/CProj/Algorithm-learning/DonFangBoYiOJ/DFOJ1368.cpp",
+  "output": "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj"
+}
+]

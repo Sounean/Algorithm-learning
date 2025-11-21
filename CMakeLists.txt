@@ -53,7 +53,26 @@ add_executable(AlgorithmProj
 #        LuoGu/Gesp/B3926.cpp
 #        LuoGu/Gesp/B3867.cpp
 #        LuoGu/Gesp/B3842.cpp
-        LuoGu/Gesp/B3843.cpp
+#        LuoGu/Gesp/B3843.cpp
+#        LuoGu/Gesp/B3956.cpp
+#        LuoGu/Gesp/B4003.cpp
+#        LuoGu/Gesp/B4039.cpp
+#        LuoGu/Gesp/B4262.cpp
+#        LuoGu/Gesp/Gesp250901.cpp
+#        Day20251022.cpp
+#        DonFangBoYiOJ/DFOJ1238.cpp
+#        DonFangBoYiOJ/DFOJ1082.cpp
+#        DonFangBoYiOJ/DFOJ1148.cpp
+#        DonFangBoYiOJ/DFOJ1216.cpp
+#        DonFangBoYiOJ/DFOJ1410.cpp
+#        DonFangBoYiOJ/DFOJ1224.cpp
+#        DonFangBoYiOJ/DFOJ1298.cpp
+#        DonFangBoYiOJ/DFOJ1374.cpp
+#        DonFangBoYiOJ/DFOJ1368.cpp
+#        DonFangBoYiOJ/DFOJ1367.cpp
+#        DonFangBoYiOJ/DFOJ1539.cpp
+        DonFangBoYiOJ/DFOJ1366.cpp
+        #        DonFangBoYiOJ/test_dfoj1238.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"

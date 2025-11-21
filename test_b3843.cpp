@@ -1,5 +1,5 @@
-#include "iostream"
-#include "string"
+#include <iostream>
+#include <string>
 using namespace std;
 
 string get[120];   // 获取到的字符串根据逗号拆解成字符数组
@@ -33,7 +33,6 @@ bool judgetStr(string str){
         }
     }
 
-
     // 3.判断不满足问题条件3时
     if (right[0]+right[1]+right[2] <2 || right[3]==0){
         return false;
@@ -51,7 +50,7 @@ int main(){
     while (str1.length() > 0){
         // 1.找出第一个逗号前面的字符串
         int index = str1.find(","); // 寻找逗号所在索引
-        if(index!=-1){
+        if(index>0){
             // 1.1有找到逗号的话，则将逗号前的字符串截取出来存到get字符数组；最后删除掉原字符串中第一个逗号和逗号前的字符串
             string strNew = str1.substr(0,index);   // (开始位子，子串长度)
             get[currentGetStrIndex] = strNew;
@@ -77,3 +76,13 @@ int main(){
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+

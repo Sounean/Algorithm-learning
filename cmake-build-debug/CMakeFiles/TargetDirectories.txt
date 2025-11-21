@@ -1,3 +1,0 @@
-D:/CProj/Algorithm-learning/cmake-build-debug/CMakeFiles/AlgorithmProj.dir
-D:/CProj/Algorithm-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CProj/Algorithm-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
