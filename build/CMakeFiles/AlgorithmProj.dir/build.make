@@ -71,28 +71,28 @@ include CMakeFiles/AlgorithmProj.dir/flags.make
 CMakeFiles/AlgorithmProj.dir/codegen:
 .PHONY : CMakeFiles/AlgorithmProj.dir/codegen
 
-CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
-CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj: D:/CProj/Algorithm-learning/DonFangBoYiOJ/DFOJ1368.cpp
-CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CProj\Algorithm-learning\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj"
-	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1368.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1368.cpp.obj -c D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1368.cpp
+CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
+CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj: D:/CProj/Algorithm-learning/DonFangBoYiOJ/DFOJ1366.cpp
+CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CProj\Algorithm-learning\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj"
+	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1366.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1366.cpp.obj -c D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1366.cpp
 
-CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.i"
-	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1368.cpp > CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1368.cpp.i
+CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.i"
+	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1366.cpp > CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1366.cpp.i
 
-CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.s"
-	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1368.cpp -o CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1368.cpp.s
+CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.s"
+	E:\qt6\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\DonFangBoYiOJ\DFOJ1366.cpp -o CMakeFiles\AlgorithmProj.dir\DonFangBoYiOJ\DFOJ1366.cpp.s
 
 # Object files for target AlgorithmProj
 AlgorithmProj_OBJECTS = \
-"CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj"
+"CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj"
 
 # External object files for target AlgorithmProj
 AlgorithmProj_EXTERNAL_OBJECTS =
 
-AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj
+AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/build.make
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/linkLibs.rsp
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/objects1.rsp

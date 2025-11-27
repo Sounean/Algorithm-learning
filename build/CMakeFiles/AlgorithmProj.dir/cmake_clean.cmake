@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "AlgorithmProj.exe"
   "AlgorithmProj.exe.manifest"
   "AlgorithmProj.pdb"
-  "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj"
-  "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj.d"
   "libAlgorithmProj.dll.a"
 )
 

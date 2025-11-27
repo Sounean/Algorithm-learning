@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CProj/Algorithm-learning/DonFangBoYiOJ/DFOJ1368.cpp" "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/DonFangBoYiOJ/DFOJ1366.cpp" "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

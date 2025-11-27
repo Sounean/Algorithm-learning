@@ -71,7 +71,11 @@ add_executable(AlgorithmProj
 #        DonFangBoYiOJ/DFOJ1368.cpp
 #        DonFangBoYiOJ/DFOJ1367.cpp
 #        DonFangBoYiOJ/DFOJ1539.cpp
-        DonFangBoYiOJ/DFOJ1366.cpp
+#        DonFangBoYiOJ/DFOJ1366.cpp
+#        LeetCode/LeetCode367.cpp
+#        LeetCode/LeetCode53.cpp
+#        LeetCode/LeetCode122.cpp
+        LeetCode/LeetCode123.cpp
         #        DonFangBoYiOJ/test_dfoj1238.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"

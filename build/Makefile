@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-DonFangBoYiOJ/DFOJ1368.obj: DonFangBoYiOJ/DFOJ1368.cpp.obj
-.PHONY : DonFangBoYiOJ/DFOJ1368.obj
+DonFangBoYiOJ/DFOJ1366.obj: DonFangBoYiOJ/DFOJ1366.cpp.obj
+.PHONY : DonFangBoYiOJ/DFOJ1366.obj
 
 # target to build an object file
-DonFangBoYiOJ/DFOJ1368.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.obj
-.PHONY : DonFangBoYiOJ/DFOJ1368.cpp.obj
+DonFangBoYiOJ/DFOJ1366.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj
+.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.obj
 
-DonFangBoYiOJ/DFOJ1368.i: DonFangBoYiOJ/DFOJ1368.cpp.i
-.PHONY : DonFangBoYiOJ/DFOJ1368.i
+DonFangBoYiOJ/DFOJ1366.i: DonFangBoYiOJ/DFOJ1366.cpp.i
+.PHONY : DonFangBoYiOJ/DFOJ1366.i
 
 # target to preprocess a source file
-DonFangBoYiOJ/DFOJ1368.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.i
-.PHONY : DonFangBoYiOJ/DFOJ1368.cpp.i
+DonFangBoYiOJ/DFOJ1366.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.i
+.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.i
 
-DonFangBoYiOJ/DFOJ1368.s: DonFangBoYiOJ/DFOJ1368.cpp.s
-.PHONY : DonFangBoYiOJ/DFOJ1368.s
+DonFangBoYiOJ/DFOJ1366.s: DonFangBoYiOJ/DFOJ1366.cpp.s
+.PHONY : DonFangBoYiOJ/DFOJ1366.s
 
 # target to generate assembly for a file
-DonFangBoYiOJ/DFOJ1368.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1368.cpp.s
-.PHONY : DonFangBoYiOJ/DFOJ1368.cpp.s
+DonFangBoYiOJ/DFOJ1366.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.s
+.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... DonFangBoYiOJ/DFOJ1368.obj
-	@echo ... DonFangBoYiOJ/DFOJ1368.i
-	@echo ... DonFangBoYiOJ/DFOJ1368.s
+	@echo ... DonFangBoYiOJ/DFOJ1366.obj
+	@echo ... DonFangBoYiOJ/DFOJ1366.i
+	@echo ... DonFangBoYiOJ/DFOJ1366.s
 .PHONY : help
 
 
