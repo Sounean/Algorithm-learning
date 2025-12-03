@@ -128,53 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LuoGu/Gesp/B3842.obj: LuoGu/Gesp/B3842.cpp.obj
-.PHONY : LuoGu/Gesp/B3842.obj
+Day1203.obj: Day1203.cpp.obj
+.PHONY : Day1203.obj
 
 # target to build an object file
-LuoGu/Gesp/B3842.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.obj
-.PHONY : LuoGu/Gesp/B3842.cpp.obj
+Day1203.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/Day1203.cpp.obj
+.PHONY : Day1203.cpp.obj
 
-LuoGu/Gesp/B3842.i: LuoGu/Gesp/B3842.cpp.i
-.PHONY : LuoGu/Gesp/B3842.i
-
-# target to preprocess a source file
-LuoGu/Gesp/B3842.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.i
-.PHONY : LuoGu/Gesp/B3842.cpp.i
-
-LuoGu/Gesp/B3842.s: LuoGu/Gesp/B3842.cpp.s
-.PHONY : LuoGu/Gesp/B3842.s
-
-# target to generate assembly for a file
-LuoGu/Gesp/B3842.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3842.cpp.s
-.PHONY : LuoGu/Gesp/B3842.cpp.s
-
-LuoGu/Gesp/B3843.obj: LuoGu/Gesp/B3843.cpp.obj
-.PHONY : LuoGu/Gesp/B3843.obj
-
-# target to build an object file
-LuoGu/Gesp/B3843.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.obj
-.PHONY : LuoGu/Gesp/B3843.cpp.obj
-
-LuoGu/Gesp/B3843.i: LuoGu/Gesp/B3843.cpp.i
-.PHONY : LuoGu/Gesp/B3843.i
+Day1203.i: Day1203.cpp.i
+.PHONY : Day1203.i
 
 # target to preprocess a source file
-LuoGu/Gesp/B3843.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.i
-.PHONY : LuoGu/Gesp/B3843.cpp.i
+Day1203.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/Day1203.cpp.i
+.PHONY : Day1203.cpp.i
 
-LuoGu/Gesp/B3843.s: LuoGu/Gesp/B3843.cpp.s
-.PHONY : LuoGu/Gesp/B3843.s
+Day1203.s: Day1203.cpp.s
+.PHONY : Day1203.s
 
 # target to generate assembly for a file
-LuoGu/Gesp/B3843.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3843.cpp.s
-.PHONY : LuoGu/Gesp/B3843.cpp.s
+Day1203.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/Day1203.cpp.s
+.PHONY : Day1203.cpp.s
 
 # Help Target
 help:
@@ -185,12 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LuoGu/Gesp/B3842.obj
-	@echo ... LuoGu/Gesp/B3842.i
-	@echo ... LuoGu/Gesp/B3842.s
-	@echo ... LuoGu/Gesp/B3843.obj
-	@echo ... LuoGu/Gesp/B3843.i
-	@echo ... LuoGu/Gesp/B3843.s
+	@echo ... Day1203.obj
+	@echo ... Day1203.i
+	@echo ... Day1203.s
 .PHONY : help
 
 

@@ -82,10 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/CProj/Algorithm-learning/LuoGu/Gesp/B3842.cpp">
-			<Option target="AlgorithmProj"/>
-		</Unit>
-		<Unit filename="D:/CProj/Algorithm-learning/LuoGu/Gesp/B3843.cpp">
+		<Unit filename="D:/CProj/Algorithm-learning/Day1203.cpp">
 			<Option target="AlgorithmProj"/>
 		</Unit>
 		<Unit filename="D:/CProj/Algorithm-learning/CMakeLists.txt">
