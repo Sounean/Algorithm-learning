@@ -75,7 +75,20 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode367.cpp
 #        LeetCode/LeetCode53.cpp
 #        LeetCode/LeetCode122.cpp
-        LeetCode/LeetCode123.cpp
+#        LeetCode/LeetCode123.cpp
+#        LeetCode/LeetCode1005.cpp
+#        LeetCode/LeetCode55.cpp
+#        LeetCode/LeetCode55_02.cpp
+#        LeetCode/LeetCode45.cpp
+#        LeetCode/LeetCode134.cpp
+#        LeetCode/LeetCode134_02.cpp
+#        LeetCode/LeetCode135.cpp
+#        LeetCode/LeetCode860.cpp
+#        LeetCode/LeetCode406.cpp
+#        LeetCode/LeetCode406_solution.cpp
+#        LeetCode/LeetCode452.cpp
+        LuoGu/Gesp/B3925.cpp
+
         #        DonFangBoYiOJ/test_dfoj1238.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"

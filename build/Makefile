@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-DonFangBoYiOJ/DFOJ1366.obj: DonFangBoYiOJ/DFOJ1366.cpp.obj
-.PHONY : DonFangBoYiOJ/DFOJ1366.obj
+LuoGu/Gesp/B3925.obj: LuoGu/Gesp/B3925.cpp.obj
+.PHONY : LuoGu/Gesp/B3925.obj
 
 # target to build an object file
-DonFangBoYiOJ/DFOJ1366.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.obj
-.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.obj
+LuoGu/Gesp/B3925.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3925.cpp.obj
+.PHONY : LuoGu/Gesp/B3925.cpp.obj
 
-DonFangBoYiOJ/DFOJ1366.i: DonFangBoYiOJ/DFOJ1366.cpp.i
-.PHONY : DonFangBoYiOJ/DFOJ1366.i
+LuoGu/Gesp/B3925.i: LuoGu/Gesp/B3925.cpp.i
+.PHONY : LuoGu/Gesp/B3925.i
 
 # target to preprocess a source file
-DonFangBoYiOJ/DFOJ1366.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.i
-.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.i
+LuoGu/Gesp/B3925.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3925.cpp.i
+.PHONY : LuoGu/Gesp/B3925.cpp.i
 
-DonFangBoYiOJ/DFOJ1366.s: DonFangBoYiOJ/DFOJ1366.cpp.s
-.PHONY : DonFangBoYiOJ/DFOJ1366.s
+LuoGu/Gesp/B3925.s: LuoGu/Gesp/B3925.cpp.s
+.PHONY : LuoGu/Gesp/B3925.s
 
 # target to generate assembly for a file
-DonFangBoYiOJ/DFOJ1366.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/DonFangBoYiOJ/DFOJ1366.cpp.s
-.PHONY : DonFangBoYiOJ/DFOJ1366.cpp.s
+LuoGu/Gesp/B3925.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LuoGu/Gesp/B3925.cpp.s
+.PHONY : LuoGu/Gesp/B3925.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... DonFangBoYiOJ/DFOJ1366.obj
-	@echo ... DonFangBoYiOJ/DFOJ1366.i
-	@echo ... DonFangBoYiOJ/DFOJ1366.s
+	@echo ... LuoGu/Gesp/B3925.obj
+	@echo ... LuoGu/Gesp/B3925.i
+	@echo ... LuoGu/Gesp/B3925.s
 .PHONY : help
 
 
