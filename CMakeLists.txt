@@ -65,6 +65,43 @@ add_executable(AlgorithmProj
 #        Day1126.cpp
 #        Day1130.cpp
         Day1203.cpp
+#        LuoGu/Gesp/B3843.cpp
+#        LuoGu/Gesp/B3956.cpp
+#        LuoGu/Gesp/B4003.cpp
+#        LuoGu/Gesp/B4039.cpp
+#        LuoGu/Gesp/B4262.cpp
+#        LuoGu/Gesp/Gesp250901.cpp
+#        Day20251022.cpp
+#        DonFangBoYiOJ/DFOJ1238.cpp
+#        DonFangBoYiOJ/DFOJ1082.cpp
+#        DonFangBoYiOJ/DFOJ1148.cpp
+#        DonFangBoYiOJ/DFOJ1216.cpp
+#        DonFangBoYiOJ/DFOJ1410.cpp
+#        DonFangBoYiOJ/DFOJ1224.cpp
+#        DonFangBoYiOJ/DFOJ1298.cpp
+#        DonFangBoYiOJ/DFOJ1374.cpp
+#        DonFangBoYiOJ/DFOJ1368.cpp
+#        DonFangBoYiOJ/DFOJ1367.cpp
+#        DonFangBoYiOJ/DFOJ1539.cpp
+#        DonFangBoYiOJ/DFOJ1366.cpp
+#        LeetCode/LeetCode367.cpp
+#        LeetCode/LeetCode53.cpp
+#        LeetCode/LeetCode122.cpp
+#        LeetCode/LeetCode123.cpp
+#        LeetCode/LeetCode1005.cpp
+#        LeetCode/LeetCode55.cpp
+#        LeetCode/LeetCode55_02.cpp
+#        LeetCode/LeetCode45.cpp
+#        LeetCode/LeetCode134.cpp
+#        LeetCode/LeetCode134_02.cpp
+#        LeetCode/LeetCode135.cpp
+#        LeetCode/LeetCode860.cpp
+#        LeetCode/LeetCode406.cpp
+#        LeetCode/LeetCode406_solution.cpp
+#        LeetCode/LeetCode452.cpp
+        LuoGu/Gesp/B3925.cpp
+
+        #        DonFangBoYiOJ/test_dfoj1238.cpp
         #                main.cpp
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P1042.cpp"
 #        "LuoGu/Part8/8_1_SimulationAlgorithm/P2670.cpp"
