@@ -128,30 +128,6 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LeetCode/LeetCode435.obj: LeetCode/LeetCode435.cpp.obj
-.PHONY : LeetCode/LeetCode435.obj
-
-# target to build an object file
-LeetCode/LeetCode435.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.obj
-.PHONY : LeetCode/LeetCode435.cpp.obj
-
-LeetCode/LeetCode435.i: LeetCode/LeetCode435.cpp.i
-.PHONY : LeetCode/LeetCode435.i
-
-# target to preprocess a source file
-LeetCode/LeetCode435.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.i
-.PHONY : LeetCode/LeetCode435.cpp.i
-
-LeetCode/LeetCode435.s: LeetCode/LeetCode435.cpp.s
-.PHONY : LeetCode/LeetCode435.s
-
-# target to generate assembly for a file
-LeetCode/LeetCode435.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.s
-.PHONY : LeetCode/LeetCode435.cpp.s
-
 LeetCode/LeetCode763.obj: LeetCode/LeetCode763.cpp.obj
 .PHONY : LeetCode/LeetCode763.obj
 
@@ -185,9 +161,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LeetCode/LeetCode435.obj
-	@echo ... LeetCode/LeetCode435.i
-	@echo ... LeetCode/LeetCode435.s
 	@echo ... LeetCode/LeetCode763.obj
 	@echo ... LeetCode/LeetCode763.i
 	@echo ... LeetCode/LeetCode763.s
