@@ -100,7 +100,10 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode406_solution.cpp
 #        LeetCode/LeetCode452.cpp
 #        LeetCode/LeetCode435.cpp
-        LeetCode/LeetCode763.cpp
+#        LeetCode/LeetCode763.cpp
+#        LeetCode/LeetCode56.cpp
+        LeetCode/LeetCode738.cpp
+
         #        LuoGu/Gesp/B3925.cpp
 
         #        DonFangBoYiOJ/test_dfoj1238.cpp
