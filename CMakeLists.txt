@@ -64,7 +64,7 @@ add_executable(AlgorithmProj
 #        Day1123.cpp
 #        Day1126.cpp
 #        Day1130.cpp
-        Day1203.cpp
+#        Day1203.cpp
 #        LuoGu/Gesp/B3843.cpp
 #        LuoGu/Gesp/B3956.cpp
 #        LuoGu/Gesp/B4003.cpp
@@ -99,7 +99,9 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode406.cpp
 #        LeetCode/LeetCode406_solution.cpp
 #        LeetCode/LeetCode452.cpp
-        LuoGu/Gesp/B3925.cpp
+#        LeetCode/LeetCode435.cpp
+        LeetCode/LeetCode763.cpp
+        #        LuoGu/Gesp/B3925.cpp
 
         #        DonFangBoYiOJ/test_dfoj1238.cpp
         #                main.cpp
