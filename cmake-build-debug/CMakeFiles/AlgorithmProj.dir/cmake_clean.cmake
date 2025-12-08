@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "AlgorithmProj.exe"
   "AlgorithmProj.exe.manifest"
   "AlgorithmProj.pdb"
-  "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.obj"
-  "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.obj.d"
+  "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj"
+  "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj.d"
   "libAlgorithmProj.dll.a"
 )
 

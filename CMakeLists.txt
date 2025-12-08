@@ -111,7 +111,10 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode1523.cpp
 #        LeetCode/tempCode.cpp
 #        LeetCode/LeetCode128.cpp
-        LeetCode/LeetCode11.cpp
+        LeetCode/LeetCode15.cpp
+#        LeetCode/LeetCode11.cpp
+#        LeetCode/LeetCode738.cpp
+#        D1207.cpp
 
         #        LeetCode/LeetCode283.cpp
         #        LuoGu/Gesp/B3925.cpp
