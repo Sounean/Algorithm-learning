@@ -103,11 +103,17 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode763.cpp
 #        LeetCode/LeetCode59.cpp
 #        LeetCode/LeetCode203.cpp
-        LeetCode/LeetCode1925.cpp
+#        LeetCode/LeetCode1925.cpp
 #        LeetCode/LeetCode763.cpp
 #        LeetCode/LeetCode56.cpp
-        LeetCode/LeetCode738.cpp
+#        LeetCode/LeetCode738.cpp
+#        LeetCode/LeetCode49.cpp
+#        LeetCode/LeetCode1523.cpp
+#        LeetCode/tempCode.cpp
+#        LeetCode/LeetCode128.cpp
+        LeetCode/LeetCode11.cpp
 
+        #        LeetCode/LeetCode283.cpp
         #        LuoGu/Gesp/B3925.cpp
 
         #        DonFangBoYiOJ/test_dfoj1238.cpp

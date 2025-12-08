@@ -128,53 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LeetCode/LeetCode1925.obj: LeetCode/LeetCode1925.cpp.obj
-.PHONY : LeetCode/LeetCode1925.obj
+LeetCode/LeetCode283.obj: LeetCode/LeetCode283.cpp.obj
+.PHONY : LeetCode/LeetCode283.obj
 
 # target to build an object file
-LeetCode/LeetCode1925.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.obj
-.PHONY : LeetCode/LeetCode1925.cpp.obj
+LeetCode/LeetCode283.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.obj
+.PHONY : LeetCode/LeetCode283.cpp.obj
 
-LeetCode/LeetCode1925.i: LeetCode/LeetCode1925.cpp.i
-.PHONY : LeetCode/LeetCode1925.i
-
-# target to preprocess a source file
-LeetCode/LeetCode1925.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.i
-.PHONY : LeetCode/LeetCode1925.cpp.i
-
-LeetCode/LeetCode1925.s: LeetCode/LeetCode1925.cpp.s
-.PHONY : LeetCode/LeetCode1925.s
-
-# target to generate assembly for a file
-LeetCode/LeetCode1925.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.s
-.PHONY : LeetCode/LeetCode1925.cpp.s
-
-LeetCode/LeetCode738.obj: LeetCode/LeetCode738.cpp.obj
-.PHONY : LeetCode/LeetCode738.obj
-
-# target to build an object file
-LeetCode/LeetCode738.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode738.cpp.obj
-.PHONY : LeetCode/LeetCode738.cpp.obj
-
-LeetCode/LeetCode738.i: LeetCode/LeetCode738.cpp.i
-.PHONY : LeetCode/LeetCode738.i
+LeetCode/LeetCode283.i: LeetCode/LeetCode283.cpp.i
+.PHONY : LeetCode/LeetCode283.i
 
 # target to preprocess a source file
-LeetCode/LeetCode738.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode738.cpp.i
-.PHONY : LeetCode/LeetCode738.cpp.i
+LeetCode/LeetCode283.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.i
+.PHONY : LeetCode/LeetCode283.cpp.i
 
-LeetCode/LeetCode738.s: LeetCode/LeetCode738.cpp.s
-.PHONY : LeetCode/LeetCode738.s
+LeetCode/LeetCode283.s: LeetCode/LeetCode283.cpp.s
+.PHONY : LeetCode/LeetCode283.s
 
 # target to generate assembly for a file
-LeetCode/LeetCode738.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode738.cpp.s
-.PHONY : LeetCode/LeetCode738.cpp.s
+LeetCode/LeetCode283.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.s
+.PHONY : LeetCode/LeetCode283.cpp.s
 
 # Help Target
 help:
@@ -185,12 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LeetCode/LeetCode1925.obj
-	@echo ... LeetCode/LeetCode1925.i
-	@echo ... LeetCode/LeetCode1925.s
-	@echo ... LeetCode/LeetCode738.obj
-	@echo ... LeetCode/LeetCode738.i
-	@echo ... LeetCode/LeetCode738.s
+	@echo ... LeetCode/LeetCode283.obj
+	@echo ... LeetCode/LeetCode283.i
+	@echo ... LeetCode/LeetCode283.s
 .PHONY : help
 
 
