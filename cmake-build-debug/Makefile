@@ -47,10 +47,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe
+CMAKE_COMMAND = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe
 
 # The command to remove a file.
-RM = E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
+RM = E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = D:\CProj\Algorithm-learning\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	E:\toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	E:\JetBrainTools\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -128,53 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LeetCode/LeetCode435.obj: LeetCode/LeetCode435.cpp.obj
-.PHONY : LeetCode/LeetCode435.obj
+LeetCode/LeetCode1925.obj: LeetCode/LeetCode1925.cpp.obj
+.PHONY : LeetCode/LeetCode1925.obj
 
 # target to build an object file
-LeetCode/LeetCode435.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.obj
-.PHONY : LeetCode/LeetCode435.cpp.obj
+LeetCode/LeetCode1925.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.obj
+.PHONY : LeetCode/LeetCode1925.cpp.obj
 
-LeetCode/LeetCode435.i: LeetCode/LeetCode435.cpp.i
-.PHONY : LeetCode/LeetCode435.i
-
-# target to preprocess a source file
-LeetCode/LeetCode435.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.i
-.PHONY : LeetCode/LeetCode435.cpp.i
-
-LeetCode/LeetCode435.s: LeetCode/LeetCode435.cpp.s
-.PHONY : LeetCode/LeetCode435.s
-
-# target to generate assembly for a file
-LeetCode/LeetCode435.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode435.cpp.s
-.PHONY : LeetCode/LeetCode435.cpp.s
-
-LeetCode/LeetCode763.obj: LeetCode/LeetCode763.cpp.obj
-.PHONY : LeetCode/LeetCode763.obj
-
-# target to build an object file
-LeetCode/LeetCode763.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode763.cpp.obj
-.PHONY : LeetCode/LeetCode763.cpp.obj
-
-LeetCode/LeetCode763.i: LeetCode/LeetCode763.cpp.i
-.PHONY : LeetCode/LeetCode763.i
+LeetCode/LeetCode1925.i: LeetCode/LeetCode1925.cpp.i
+.PHONY : LeetCode/LeetCode1925.i
 
 # target to preprocess a source file
-LeetCode/LeetCode763.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode763.cpp.i
-.PHONY : LeetCode/LeetCode763.cpp.i
+LeetCode/LeetCode1925.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.i
+.PHONY : LeetCode/LeetCode1925.cpp.i
 
-LeetCode/LeetCode763.s: LeetCode/LeetCode763.cpp.s
-.PHONY : LeetCode/LeetCode763.s
+LeetCode/LeetCode1925.s: LeetCode/LeetCode1925.cpp.s
+.PHONY : LeetCode/LeetCode1925.s
 
 # target to generate assembly for a file
-LeetCode/LeetCode763.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode763.cpp.s
-.PHONY : LeetCode/LeetCode763.cpp.s
+LeetCode/LeetCode1925.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode1925.cpp.s
+.PHONY : LeetCode/LeetCode1925.cpp.s
 
 # Help Target
 help:
@@ -185,12 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LeetCode/LeetCode435.obj
-	@echo ... LeetCode/LeetCode435.i
-	@echo ... LeetCode/LeetCode435.s
-	@echo ... LeetCode/LeetCode763.obj
-	@echo ... LeetCode/LeetCode763.i
-	@echo ... LeetCode/LeetCode763.s
+	@echo ... LeetCode/LeetCode1925.obj
+	@echo ... LeetCode/LeetCode1925.i
+	@echo ... LeetCode/LeetCode1925.s
 .PHONY : help
 
 
