@@ -82,19 +82,51 @@ CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.s"
 	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LeetCode\LeetCode3583.cpp -o CMakeFiles\AlgorithmProj.dir\LeetCode\LeetCode3583.cpp.s
 
+CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
+CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj: D:/CProj/Algorithm-learning/LeetCode/LeetCode15.cpp
+CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LeetCode\LeetCode15.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LeetCode\LeetCode15.cpp.obj -c D:\CProj\Algorithm-learning\LeetCode\LeetCode15.cpp
+
+CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.i"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LeetCode\LeetCode15.cpp > CMakeFiles\AlgorithmProj.dir\LeetCode\LeetCode15.cpp.i
+
+CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.s"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LeetCode\LeetCode15.cpp -o CMakeFiles\AlgorithmProj.dir\LeetCode\LeetCode15.cpp.s
+
+CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj: CMakeFiles/AlgorithmProj.dir/flags.make
+CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj: D:/CProj/Algorithm-learning/LeetCode/TemplateCode.cpp
+CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj: CMakeFiles/AlgorithmProj.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj -MF CMakeFiles\AlgorithmProj.dir\LeetCode\TemplateCode.cpp.obj.d -o CMakeFiles\AlgorithmProj.dir\LeetCode\TemplateCode.cpp.obj -c D:\CProj\Algorithm-learning\LeetCode\TemplateCode.cpp
+
+CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.i"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CProj\Algorithm-learning\LeetCode\TemplateCode.cpp > CMakeFiles\AlgorithmProj.dir\LeetCode\TemplateCode.cpp.i
+
+CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.s"
+	E:\qt6\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CProj\Algorithm-learning\LeetCode\TemplateCode.cpp -o CMakeFiles\AlgorithmProj.dir\LeetCode\TemplateCode.cpp.s
+
 # Object files for target AlgorithmProj
 AlgorithmProj_OBJECTS = \
-"CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj"
+"CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj" \
+"CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj" \
+"CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj"
 
 # External object files for target AlgorithmProj
 AlgorithmProj_EXTERNAL_OBJECTS =
 
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj
+AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj
+AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/build.make
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/linkLibs.rsp
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/objects1.rsp
 AlgorithmProj.exe: CMakeFiles/AlgorithmProj.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AlgorithmProj.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CProj\Algorithm-learning\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable AlgorithmProj.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AlgorithmProj.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
