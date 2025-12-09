@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CProj/Algorithm-learning/LeetCode/LeetCode283.cpp" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode283.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/LeetCode/LeetCode3583.cpp" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
