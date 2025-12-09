@@ -128,77 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LeetCode/LeetCode15.obj: LeetCode/LeetCode15.cpp.obj
-.PHONY : LeetCode/LeetCode15.obj
+LeetCode/LeetCode438.obj: LeetCode/LeetCode438.cpp.obj
+.PHONY : LeetCode/LeetCode438.obj
 
 # target to build an object file
-LeetCode/LeetCode15.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj
-.PHONY : LeetCode/LeetCode15.cpp.obj
+LeetCode/LeetCode438.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode438.cpp.obj
+.PHONY : LeetCode/LeetCode438.cpp.obj
 
-LeetCode/LeetCode15.i: LeetCode/LeetCode15.cpp.i
-.PHONY : LeetCode/LeetCode15.i
-
-# target to preprocess a source file
-LeetCode/LeetCode15.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.i
-.PHONY : LeetCode/LeetCode15.cpp.i
-
-LeetCode/LeetCode15.s: LeetCode/LeetCode15.cpp.s
-.PHONY : LeetCode/LeetCode15.s
-
-# target to generate assembly for a file
-LeetCode/LeetCode15.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.s
-.PHONY : LeetCode/LeetCode15.cpp.s
-
-LeetCode/LeetCode3583.obj: LeetCode/LeetCode3583.cpp.obj
-.PHONY : LeetCode/LeetCode3583.obj
-
-# target to build an object file
-LeetCode/LeetCode3583.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj
-.PHONY : LeetCode/LeetCode3583.cpp.obj
-
-LeetCode/LeetCode3583.i: LeetCode/LeetCode3583.cpp.i
-.PHONY : LeetCode/LeetCode3583.i
+LeetCode/LeetCode438.i: LeetCode/LeetCode438.cpp.i
+.PHONY : LeetCode/LeetCode438.i
 
 # target to preprocess a source file
-LeetCode/LeetCode3583.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.i
-.PHONY : LeetCode/LeetCode3583.cpp.i
+LeetCode/LeetCode438.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode438.cpp.i
+.PHONY : LeetCode/LeetCode438.cpp.i
 
-LeetCode/LeetCode3583.s: LeetCode/LeetCode3583.cpp.s
-.PHONY : LeetCode/LeetCode3583.s
-
-# target to generate assembly for a file
-LeetCode/LeetCode3583.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.s
-.PHONY : LeetCode/LeetCode3583.cpp.s
-
-LeetCode/TemplateCode.obj: LeetCode/TemplateCode.cpp.obj
-.PHONY : LeetCode/TemplateCode.obj
-
-# target to build an object file
-LeetCode/TemplateCode.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj
-.PHONY : LeetCode/TemplateCode.cpp.obj
-
-LeetCode/TemplateCode.i: LeetCode/TemplateCode.cpp.i
-.PHONY : LeetCode/TemplateCode.i
-
-# target to preprocess a source file
-LeetCode/TemplateCode.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.i
-.PHONY : LeetCode/TemplateCode.cpp.i
-
-LeetCode/TemplateCode.s: LeetCode/TemplateCode.cpp.s
-.PHONY : LeetCode/TemplateCode.s
+LeetCode/LeetCode438.s: LeetCode/LeetCode438.cpp.s
+.PHONY : LeetCode/LeetCode438.s
 
 # target to generate assembly for a file
-LeetCode/TemplateCode.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.s
-.PHONY : LeetCode/TemplateCode.cpp.s
+LeetCode/LeetCode438.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode438.cpp.s
+.PHONY : LeetCode/LeetCode438.cpp.s
 
 # Help Target
 help:
@@ -209,15 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LeetCode/LeetCode15.obj
-	@echo ... LeetCode/LeetCode15.i
-	@echo ... LeetCode/LeetCode15.s
-	@echo ... LeetCode/LeetCode3583.obj
-	@echo ... LeetCode/LeetCode3583.i
-	@echo ... LeetCode/LeetCode3583.s
-	@echo ... LeetCode/TemplateCode.obj
-	@echo ... LeetCode/TemplateCode.i
-	@echo ... LeetCode/TemplateCode.s
+	@echo ... LeetCode/LeetCode438.obj
+	@echo ... LeetCode/LeetCode438.i
+	@echo ... LeetCode/LeetCode438.s
 .PHONY : help
 
 
