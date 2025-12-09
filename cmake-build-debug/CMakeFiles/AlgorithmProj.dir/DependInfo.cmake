@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/CProj/Algorithm-learning/LeetCode/LeetCode15.cpp" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode15.cpp.obj.d"
   "D:/CProj/Algorithm-learning/LeetCode/LeetCode3583.cpp" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.obj.d"
+  "D:/CProj/Algorithm-learning/LeetCode/TemplateCode.cpp" "CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj" "gcc" "CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

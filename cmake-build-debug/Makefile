@@ -176,6 +176,30 @@ LeetCode/LeetCode3583.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode3583.cpp.s
 .PHONY : LeetCode/LeetCode3583.cpp.s
 
+LeetCode/TemplateCode.obj: LeetCode/TemplateCode.cpp.obj
+.PHONY : LeetCode/TemplateCode.obj
+
+# target to build an object file
+LeetCode/TemplateCode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.obj
+.PHONY : LeetCode/TemplateCode.cpp.obj
+
+LeetCode/TemplateCode.i: LeetCode/TemplateCode.cpp.i
+.PHONY : LeetCode/TemplateCode.i
+
+# target to preprocess a source file
+LeetCode/TemplateCode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.i
+.PHONY : LeetCode/TemplateCode.cpp.i
+
+LeetCode/TemplateCode.s: LeetCode/TemplateCode.cpp.s
+.PHONY : LeetCode/TemplateCode.s
+
+# target to generate assembly for a file
+LeetCode/TemplateCode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/TemplateCode.cpp.s
+.PHONY : LeetCode/TemplateCode.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +215,9 @@ help:
 	@echo ... LeetCode/LeetCode3583.obj
 	@echo ... LeetCode/LeetCode3583.i
 	@echo ... LeetCode/LeetCode3583.s
+	@echo ... LeetCode/TemplateCode.obj
+	@echo ... LeetCode/TemplateCode.i
+	@echo ... LeetCode/TemplateCode.s
 .PHONY : help
 
 

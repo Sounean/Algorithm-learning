@@ -88,6 +88,9 @@
 		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/LeetCode3583.cpp">
 			<Option target="AlgorithmProj"/>
 		</Unit>
+		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/TemplateCode.cpp">
+			<Option target="AlgorithmProj"/>
+		</Unit>
 		<Unit filename="D:/CProj/Algorithm-learning/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
