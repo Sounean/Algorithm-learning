@@ -128,29 +128,29 @@ AlgorithmProj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/build
 .PHONY : AlgorithmProj/fast
 
-LeetCode/LeetCode238.obj: LeetCode/LeetCode238.cpp.obj
-.PHONY : LeetCode/LeetCode238.obj
+LeetCode/LeetCode48.obj: LeetCode/LeetCode48.cpp.obj
+.PHONY : LeetCode/LeetCode48.obj
 
 # target to build an object file
-LeetCode/LeetCode238.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode238.cpp.obj
-.PHONY : LeetCode/LeetCode238.cpp.obj
+LeetCode/LeetCode48.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode48.cpp.obj
+.PHONY : LeetCode/LeetCode48.cpp.obj
 
-LeetCode/LeetCode238.i: LeetCode/LeetCode238.cpp.i
-.PHONY : LeetCode/LeetCode238.i
+LeetCode/LeetCode48.i: LeetCode/LeetCode48.cpp.i
+.PHONY : LeetCode/LeetCode48.i
 
 # target to preprocess a source file
-LeetCode/LeetCode238.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode238.cpp.i
-.PHONY : LeetCode/LeetCode238.cpp.i
+LeetCode/LeetCode48.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode48.cpp.i
+.PHONY : LeetCode/LeetCode48.cpp.i
 
-LeetCode/LeetCode238.s: LeetCode/LeetCode238.cpp.s
-.PHONY : LeetCode/LeetCode238.s
+LeetCode/LeetCode48.s: LeetCode/LeetCode48.cpp.s
+.PHONY : LeetCode/LeetCode48.s
 
 # target to generate assembly for a file
-LeetCode/LeetCode238.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode238.cpp.s
-.PHONY : LeetCode/LeetCode238.cpp.s
+LeetCode/LeetCode48.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AlgorithmProj.dir\build.make CMakeFiles/AlgorithmProj.dir/LeetCode/LeetCode48.cpp.s
+.PHONY : LeetCode/LeetCode48.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AlgorithmProj
-	@echo ... LeetCode/LeetCode238.obj
-	@echo ... LeetCode/LeetCode238.i
-	@echo ... LeetCode/LeetCode238.s
+	@echo ... LeetCode/LeetCode48.obj
+	@echo ... LeetCode/LeetCode48.i
+	@echo ... LeetCode/LeetCode48.s
 .PHONY : help
 
 
