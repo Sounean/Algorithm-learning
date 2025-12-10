@@ -80,13 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/LeetCode15.cpp">
-			<Option target="AlgorithmProj"/>
-		</Unit>
-		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/LeetCode3583.cpp">
-			<Option target="AlgorithmProj"/>
-		</Unit>
-		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/TemplateCode.cpp">
+		<Unit filename="D:/CProj/Algorithm-learning/LeetCode/LeetCode438.cpp">
 			<Option target="AlgorithmProj"/>
 		</Unit>
 		<Unit filename="D:/CProj/Algorithm-learning/CMakeLists.txt">
