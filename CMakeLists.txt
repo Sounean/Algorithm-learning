@@ -120,7 +120,10 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode3583.cpp
 #        LeetCode/LeetCode15.cpp
 #        LeetCode/TemplateCode.cpp
-        LeetCode/LeetCode438.cpp
+#        LeetCode/LeetCode438.cpp
+#        LeetCode/LeetCode189.cpp
+        LeetCode/LeetCode238.cpp
+
         #        LeetCode/LeetCode11.cpp
 #        LeetCode/LeetCode738.cpp
 #        D1207.cpp
