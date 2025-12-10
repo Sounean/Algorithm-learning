@@ -121,6 +121,10 @@ add_executable(AlgorithmProj
 #        LeetCode/LeetCode15.cpp
 #        LeetCode/TemplateCode.cpp
 #        LeetCode/LeetCode438.cpp
+#        LeetCode/LeetCode239.cpp
+        LeetCode/LeetCode73.cpp
+
+#        LeetCode/LeetCode438.cpp
 #        LeetCode/LeetCode189.cpp
         LeetCode/LeetCode238.cpp
 
