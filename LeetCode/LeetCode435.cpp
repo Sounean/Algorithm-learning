@@ -24,7 +24,7 @@ int eraseOverlapIntervals(vector<vector<int>>& points) {
             cnt++;
             right = min(points[i][1] , right);
         }else {
-            right = max(points[i][1] , right);
+            right = points[i][1];
         }
     }
 

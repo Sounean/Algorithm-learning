@@ -8,54 +8,33 @@ using namespace std;
 
 // 有可以滑动窗口用的到的地方吗？找到有符合的第一个字符开始？
 
-// 找到有符合的，如果字符能在p中find的到立即开始？
-// 写一个map m1分别去存他们拆开的字符出现的次数。后面都要和这个对标
-//  赋值m1为m2，一个对比map<char,int>（字符，出现的次数）
-//   map<char,vector<int> mIndex(字符，出现的索引)
-//    如果往后面挪发现不在p里面直接跳过，l变到r后面重新找
-//    如果往后面挪发现在p中，刷新map，将里面对应值-1，如果发现出现-1的说明可能出现多出来的,那么直接更新l一直到mIndex所记录的第一个的后一个索引，中间出现的全部都在m1中次数加回去，mIndex中减掉
+// 首先，既然要和p是异位词那就说明，长度一定要想等，所以可以做一个长度为p.size的窗口，然后往后挪动，每次新的和p进行比较即可。--》此处将问题转换成了如何去把和p进行的比较变得简单
 
-// 如果r-l+1 == p.size()那么说明有成功找到一个，此时l+r同时往后挪
+// 可以将每个字母的频率存到vector数组中去  后面可以直接和p对应的数组作比较即可；  然后窗口移动一位其实就是l向左移动一位，r向右移动一位   -->将上一个问题：比较两个字符串转变成比较字符串中各个字母出现的频率
 
 
 vector<int> findAnagrams(string s, string p) {
-    vector<int> v1; // 最终答案里的
+    vector<int> indexV;
 
-    string currentStr = "";
-    map<char,int> mTimes;   // 次数map
+    if(s.size()<p.size())return indexV;
+
+    vector<int> pCount(26,0);
+    vector<int> sCount(26,0);
     for (int i = 0; i < p.size(); ++i) {
-        if (mTimes.count(p[i])){// 如果原来map中有
-            mTimes[p[i]] = 0;
-        } else {    // 如果原来map没有
-            mTimes[p[i]]++;
-        }
+        pCount[p[i]-'a']++; // 统计字符串p中各字母出现的频率
+        sCount[s[i]-'a']++; // 开头长度为p的字符串，出现的统计的频率
     }
 
-    int right =0;
-    int left = 0;
-    while (mTimes.count(s[left])<0)left++;
+    if (pCount == sCount)indexV.push_back(0);
 
-    if (left>=s.size()-p.size())return v1;
+    for (int i = 0; i < s.size() - p.size(); ++i) {
+        sCount[s[i]-'a']--;
+        sCount[s[i+p.size()]-'a']++;
 
-    for (; left < s.size()-p.size(); ++left) {
-        while (mTimes.count(s[left])==0){
-            left++;
-        }
-        if (left==s.size())break;
-        map<char,int> curTime = mTimes;
-        right = left++;
-
-
-        // 不会有下面这步，因为上面while循环已经保证了可你的那个有
-//        if (mTimes.count(s[i]) == 0){   // 如果在次数map中都么有说明是直接不符合的
-//
-//        }
-        while (mTimes.count(s[right])>0 && mTimes[s[right]]>0){ // 当右指针指向的属于合法范围内的时候
-
-        }
-
+        if (pCount == sCount)indexV.push_back(i+1); // 记住这里是i+1而不是i  因为我们上面的步骤本质上是去掉第i个，所以子字符串开头的下标是i+1处开始的
     }
 
+    return indexV;
 }
 
 int main(){
